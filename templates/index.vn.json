@@ -1,0 +1,732 @@
+{
+  "sections": {
+    "slideshow_UfNamL": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_ULqMVk": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/YP-LOOKBOOK21.020932.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "SHOP",
+            "link": "shopify:\/\/collections\/t-shirt",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-ac17926e-e614-4397-9a24-d30389b17dbe",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_3Q8ryQ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/YP3.050402_20098134-d84e-4db4-9e2d-28274bff8527.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "SHOP",
+            "link": "shopify:\/\/collections\/new-arrivals",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-ac17926e-e614-4397-9a24-d30389b17dbe",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_84AmLW": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/YP-LOOOKBOOK0398-2.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "SHOP",
+            "link": "shopify:\/\/collections\/pre-order",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-ac17926e-e614-4397-9a24-d30389b17dbe",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_hMFVQM": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/YP-LOOOKBOOK0792-2.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "SHOP",
+            "link": "shopify:\/\/collections\/ready-to-ship",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-ac17926e-e614-4397-9a24-d30389b17dbe",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_9k7nyA": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/YP-LOOKBOOK21.020760.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "SHOP",
+            "link": "shopify:\/\/collections\/pre-order",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-ac17926e-e614-4397-9a24-d30389b17dbe",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_ULqMVk",
+        "slide_3Q8ryQ",
+        "slide_84AmLW",
+        "slide_hMFVQM",
+        "slide_9k7nyA"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "hidden",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "featured_collection_1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "ready-to-ship",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-ac17926e-e614-4397-9a24-d30389b17dbe",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_nQrCQd": {
+      "type": "image-banner",
+      "blocks": {
+        "buttons_VzqmxT": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "shopify:\/\/collections\/new-arrivals",
+            "button_style_secondary_1": false,
+            "button_label_2": "WHOLE SALE",
+            "button_link_2": "shopify:\/\/collections\/wholesale",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "buttons_VzqmxT"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSC02668s.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-ac17926e-e614-4397-9a24-d30389b17dbe",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "featured_collection_2": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "ready-to-ship",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-ac17926e-e614-4397-9a24-d30389b17dbe",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "slideshow_D3gHKU": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_GqY4kQ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC02599.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "SHOP",
+            "link": "shopify:\/\/collections\/ready-to-ship",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-ac17926e-e614-4397-9a24-d30389b17dbe",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_a9TGnL": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC02479.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "SHOP",
+            "link": "shopify:\/\/collections\/pre-order",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-ac17926e-e614-4397-9a24-d30389b17dbe",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_yKzAfm": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC02419_s.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "SHOP",
+            "link": "shopify:\/\/collections\/ready-to-ship",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-ac17926e-e614-4397-9a24-d30389b17dbe",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_eCicVb": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC02397s.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "SHOP",
+            "link": "shopify:\/\/collections\/pre-order",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-ac17926e-e614-4397-9a24-d30389b17dbe",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_6LzzyM": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC02637.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "SHOP",
+            "link": "shopify:\/\/collections\/ready-to-ship",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-ac17926e-e614-4397-9a24-d30389b17dbe",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_GqY4kQ",
+        "slide_a9TGnL",
+        "slide_yKzAfm",
+        "slide_eCicVb",
+        "slide_6LzzyM"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "large",
+        "slider_visual": "hidden",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "featured_collection_3": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "ready-to-ship",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-ac17926e-e614-4397-9a24-d30389b17dbe",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_knUGqN": {
+      "type": "image-banner",
+      "blocks": {
+        "text_F9eQqh": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "• Unisex • Pre-Washed for a no-shrink true fit• 250gsm Super Heavy Weight \/ Shrink Free• 100% Cotton • Thick and Soft like designer brands fabric• OVERSIZED FIT• Washed Effect",
+            "text_style": "body"
+          }
+        },
+        "buttons_3qAYiR": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "T-SHIRT",
+            "button_link_1": "shopify:\/\/collections\/t-shirt-longsleeve",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_F9eQqh",
+        "buttons_3qAYiR"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/YP_PRODUCT_13.030171.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-987363c1-3e81-476b-80b6-e1479ecea538",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "featured_collection_4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "ready-to-ship",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-ac17926e-e614-4397-9a24-d30389b17dbe",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_Yj4rPK": {
+      "type": "image-banner",
+      "blocks": {
+        "buttons_jphCNN": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "HOODIES",
+            "button_link_1": "shopify:\/\/collections\/hoodie",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "text_3FT4Le": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "• Unisex • Pre-Washed for a no-shrink true fit• 440gsm French Terry Super Heavy Weight\/  Shrink Free• 100% Cotton • Thick and Soft like designer brands fabric• Medium Fit • SunBurn Wash Effect ",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "buttons_jphCNN",
+        "text_3FT4Le"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/YP_PRODUCT_13.030130.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-987363c1-3e81-476b-80b6-e1479ecea538",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "featured_collection_5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "ready-to-ship",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-ac17926e-e614-4397-9a24-d30389b17dbe",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_LKWrHy": {
+      "type": "image-banner",
+      "blocks": {
+        "buttons_QrRpFg": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "BOTTOMS",
+            "button_link_1": "shopify:\/\/collections\/pants",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "buttons_QrRpFg"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/YP_PRODUCT_13.030116.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-987363c1-3e81-476b-80b6-e1479ecea538",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "featured_collection_6": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "ready-to-ship",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-ac17926e-e614-4397-9a24-d30389b17dbe",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_TtVhPU": {
+      "type": "image-banner",
+      "blocks": {
+        "text_BmMepE": {
+          "type": "text",
+          "settings": {
+            "text": "THE BEST BLANK IN THE FASHION RIGHT NOW. IMPORTANT IS THE PRICE WE PROVIDE AND THE QUALITY WE PUT IN IS VERY UNIQUE. REASON WE PUT IT CHEAP BECAUSE WE WANT EVERYBODY TO HAVE AND SEE OUR QUALITY IT COULD DO A LOT FOR YOU.",
+            "text_style": "subtitle"
+          }
+        },
+        "buttons_Afh6kV": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SHOP ALL",
+            "button_link_1": "shopify:\/\/collections\/all-product",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_BmMepE",
+        "buttons_Afh6kV"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/YP-LOOOKBOOK0860__2.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-987363c1-3e81-476b-80b6-e1479ecea538",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "featured_collection_7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "ready-to-ship",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-ac17926e-e614-4397-9a24-d30389b17dbe",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "49556708-80e0-4a57-a196-e2d3c7209695": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h0",
+        "enable_video_looping": false,
+        "video": "shopify:\/\/files\/videos\/11_643a632d-6fb0-4063-902e-64722bf8e082.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_QyKkbX": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_FE7acR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5665.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_RHcDwi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/00A5B5AA-5822-473F-8775-482802453DB6.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_G8P9kB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4630.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_xewYxj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0411.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_WKVP9r": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5661.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PFBVqb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5662.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_FE7acR",
+        "column_RHcDwi",
+        "column_G8P9kB",
+        "column_xewYxj",
+        "column_WKVP9r",
+        "column_PFBVqb"
+      ],
+      "settings": {
+        "title": "FEEDBACK",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    }
+  },
+  "order": [
+    "slideshow_UfNamL",
+    "featured_collection_1",
+    "image_banner_nQrCQd",
+    "featured_collection_2",
+    "slideshow_D3gHKU",
+    "featured_collection_3",
+    "image_banner_knUGqN",
+    "featured_collection_4",
+    "image_banner_Yj4rPK",
+    "featured_collection_5",
+    "image_banner_LKWrHy",
+    "featured_collection_6",
+    "image_banner_TtVhPU",
+    "featured_collection_7",
+    "49556708-80e0-4a57-a196-e2d3c7209695",
+    "multicolumn_QyKkbX"
+  ]
+}

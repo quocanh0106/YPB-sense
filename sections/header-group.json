@@ -1,0 +1,62 @@
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement_FVx7cw": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "IMPORTANT NOTICE we regret to inform you that our payment system is currently experiencing some technical difficulties. As a TEMPORARY SOLUTION , we ask you to utilize our ZELLE account or PAYMENT LINK for all transactions..Thank you for your continued support.",
+            "link": ""
+          }
+        },
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "ALL SHIPPING TIME WILL DEPEND OF YOUR LOCATION,  ALL SELL ARE FINAL",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_FVx7cw",
+        "announcement-bar-0"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "menu": "main-menu",
+        "menu_type_desktop": "drawer",
+        "sticky_header_type": "always",
+        "header_absolute": true,
+        "show_line_separator": false,
+        "color_scheme": "scheme-ac17926e-e614-4397-9a24-d30389b17dbe",
+        "menu_color_scheme": "background-1",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
