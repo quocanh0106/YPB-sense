@@ -516,6 +516,9 @@ a.product__text {
 
   .product__media-list .product__media-item {
     width: 100%;
+    height: fit-content;
+    padding: 0!important;
+    margin: 0!important;
   }
 
   .product--mobile-columns .product__media-item {
@@ -1411,7 +1414,7 @@ a.product__text {
 
 .product-media-container.constrain-height.media-fit-contain {
   --contained-width: calc(var(--constrained-height) * var(--aspect-ratio));
-  width: min(var(--contained-width), 100%);
+  width: 100%;
 }
 
 .product-media-container .media {
@@ -1419,7 +1422,7 @@ a.product__text {
 }
 
 .product-media-container.constrain-height .media {
-  padding-top: min(var(--constrained-height), var(--ratio-percent));
+  padding-top: var(--ratio-percent);
 }
 
 @media screen and (max-width: 749px) {
